@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello! I am a Discord bot creator using GitHub to host my projects!
